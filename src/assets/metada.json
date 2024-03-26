@@ -1,9 +1,9 @@
 {
   "name": "Solana Developer Hub Workshop #4",
-  "description": "https://github.com/k-kinzal/solana-developer-hub-workshop-20240326",
-  "image": "https://github.com/k-kinzal/solana-developer-hub-workshop-20240326/blob/main/src/assets/nft.png?raw=true",
-  "external_url": "https://github.com/k-kinzal/solana-developer-hub-workshop-20240326",
-  "attributes": [
+  "description": "https://github.com/mouse1886/solana-developer-hub-workshop-20240326",
+  "image": "https://github.com/mouse1886/solana-developer-hub-workshop-20240326/blob/main/src/assets/nft.png?raw=true",
+  "external_url": "https://github.com/mouse1886/solana-developer-hub-workshop-20240326",
+  "attributes": [20240306]
     {
       "trait_type": "trait1",
       "value": "value1"
@@ -16,14 +16,14 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/k-kinzal/solana-developer-hub-workshop-20240326/blob/main/src/assets/nft.png?raw=true",
+        "uri": "https://github.com/mouse1886/solana-developer-hub-workshop-20240326/blob/main/src/assets/nft.png?raw=true",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "GezdpBqe9R8ZYpfUAf64NaoqYXNvoSL9gE5ZMqDFcZYa"
+        "address": "0xC8e2fdb8f1B5D5a246023edd7e761726438B371e"
       }
     ]
   }
