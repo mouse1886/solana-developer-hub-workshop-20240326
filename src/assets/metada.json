@@ -3,7 +3,7 @@
   "description": "https://github.com/mouse1886/solana-developer-hub-workshop-20240326",
   "image": "https://github.com/mouse1886/solana-developer-hub-workshop-20240326/blob/main/src/assets/nft.png?raw=true",
   "external_url": "https://github.com/mouse1886/solana-developer-hub-workshop-20240326",
-  "attributes": [20240306]
+  "attributes": [
     {
       "trait_type": "trait1",
       "value": "value1"
